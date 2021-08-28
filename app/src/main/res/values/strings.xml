@@ -1,0 +1,23 @@
+<resources>
+    <style name="appTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#00ABCA</item>
+    </style>
+    <string name="app_name">Tic Tac Toe 🐈</string>
+    <string name="s1">¡Bienvenido a Tic Tac Toe X-O!</string>
+    <string name="s2">¡A jugar!</string>
+    <string name="s3">Reiniciar</string>
+
+    <string name="s4">Selecciona un valor</string>
+    <string name="s5">Turno de: </string>
+    <string name="s6"></string>
+
+    <string name="vacio"></string>
+    <string name="imagen"></string>
+    <string name="linea"></string>
+
+    <string name="X">X</string>
+    <string name="O">O</string>
+
+    <string name="val1">X</string>
+    <string name="val2">O</string>
+</resources>
